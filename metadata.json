@@ -1,0 +1,6 @@
+{
+  "name": "Ludo King",
+  "description": "Real-time multiplayer Ludo King board game with Guest ID profiles, free store unlocks, online matchmaking, and private friend room codes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

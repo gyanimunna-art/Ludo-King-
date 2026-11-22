@@ -1,0 +1,82 @@
+[
+  {
+    "id": "69b8c3534913c9f33f28604d",
+    "name": "Hammer",
+    "avatar": "/assets/ludo/avatar_hammer.png",
+    "country": "India",
+    "statusMessage": "Ready, Set, Ludo!",
+    "gender": "male",
+    "level": 1,
+    "xp": 105,
+    "maxXp": 180,
+    "coins": 4250,
+    "diamonds": 150,
+    "isGuestSignedIn": true,
+    "kingPassUnlocked": false,
+    "stats": {
+      "gamesWon": 2,
+      "gamesLost": 0,
+      "winStreak": 2,
+      "tokensCaptured": 3,
+      "tokensKilled": 0,
+      "performanceRating": 7,
+      "tournamentsWon": 0
+    },
+    "unlockedDice": [
+      "DEFAULT"
+    ],
+    "selectedDice": "DEFAULT",
+    "unlockedTokens": [
+      "DEFAULT"
+    ],
+    "selectedToken": "DEFAULT",
+    "unlockedThemes": [
+      "DEFAULT",
+      "NATURE"
+    ],
+    "selectedTheme": "DEFAULT",
+    "buddies": [],
+    "gameHistory": [],
+    "createdAt": 1795221703192
+  },
+  {
+    "id": "69b88d9f9e024d860bb6c922",
+    "name": "Hammer",
+    "avatar": "/assets/ludo/avatar_hammer.png",
+    "country": "India",
+    "statusMessage": "Ready, Set, Ludo!",
+    "gender": "male",
+    "level": 1,
+    "xp": 105,
+    "maxXp": 180,
+    "coins": 4250,
+    "diamonds": 150,
+    "isGuestSignedIn": true,
+    "kingPassUnlocked": false,
+    "stats": {
+      "gamesWon": 2,
+      "gamesLost": 0,
+      "winStreak": 2,
+      "tokensCaptured": 3,
+      "tokensKilled": 0,
+      "performanceRating": 7,
+      "tournamentsWon": 0
+    },
+    "unlockedDice": [
+      "DEFAULT"
+    ],
+    "selectedDice": "DEFAULT",
+    "unlockedTokens": [
+      "DEFAULT"
+    ],
+    "selectedToken": "DEFAULT",
+    "unlockedThemes": [
+      "DEFAULT",
+      "NATURE"
+    ],
+    "selectedTheme": "DEFAULT",
+    "buddies": [],
+    "gameHistory": [],
+    "createdAt": 1795221834546
+  }
+]
